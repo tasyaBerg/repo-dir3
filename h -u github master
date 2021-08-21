@@ -1,0 +1,30 @@
+[33mcommit d0ea7731c273e19f5b52597685cbd4a871579cea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 620ecdf e16b1b0
+Author: tasyaBerg <beladonna_2002@mail.ru>
+Date:   Sat Aug 21 12:29:16 2021 +0400
+
+    Merge branch 'gui-branch'
+
+[33mcommit e16b1b0c611908dd28a5961df2ea3257c44009be[m[33m ([m[1;31morigin/gui-branch[m[33m, [m[1;32mgui-branch[m[33m)[m
+Author: tasyaBerg <beladonna_2002@mail.ru>
+Date:   Sat Aug 21 12:24:55 2021 +0400
+
+    update git kraken
+
+[33mcommit 620ecdf4f30aec4ec6fe1e3d81bf01f9c12c5cee[m
+Author: tasyaBerg <beladonna_2002@mail.ru>
+Date:   Tue Aug 17 10:55:20 2021 +0400
+
+    test commit
+
+[33mcommit b9739464d27eda1beef83da7ed38dc98b4094822[m
+Author: tasyaBerg <beladonna_2002@mail.ru>
+Date:   Mon Aug 16 10:18:21 2021 +0400
+
+    create change.md
+
+[33mcommit d460a4312eef13910e7cbb89130bb7adc21900aa[m
+Author: tasyaBerg <beladonna_2002@mail.ru>
+Date:   Sun Aug 15 13:48:43 2021 +0400
+
+    Initial commit
